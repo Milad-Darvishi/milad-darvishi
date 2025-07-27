@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milad Darvishi</h1>
 <h3 align="center">I am a Senior Software Engineer with over 13 years of experience in designing, developing, and scaling distributed systems and cloud-native applications. I’m passionate about building high-quality software and contributing to the developer community through open-source projects and technical writing. Sharing knowledge is a core part of my work.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milad-darvishi" alt="milad-darvishi" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/milad-darvishi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/milad-darvishi/" height="30" width="40" /></a>
@@ -14,5 +12,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milad-darvishi&show_icons=true&locale=en&layout=compact" alt="milad-darvishi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milad-darvishi&show_icons=true&locale=en" alt="milad-darvishi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milad-darvishi&" alt="milad-darvishi" /></p>

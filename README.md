@@ -1,7 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">I am a Senior Software Engineer with over 11 years of experience in designing, developing, and scaling distributed systems and cloud-native applications. I’m passionate about building high-quality software and contributing to the developer community through open-source projects and technical writing. Sharing knowledge is a core part of my work.</div>  
   

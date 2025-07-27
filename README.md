@@ -13,7 +13,4 @@
 <br/>
 <br/>
 <br/>
-<div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milad-darvishi&show_icons=true&locale=en" alt="milad-darvishi" /></p>
 
-</div>
